@@ -1,0 +1,5 @@
+Dogecoin 20
+Dogecoin 10
+Rabbitcoin 100
+Catcoin 50
+Mousecoin 5
